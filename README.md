@@ -4,10 +4,11 @@
 3. Add and commit these changes.
 4. Now we want to upload local repo to GitHub. 
 5. Create a new git repo using GitHub
-    a) Copy its HTTPS link
-    b) use command git remote add origin main <-LINK->  // this tells where we want to  push our local repo.
-    c) To verify git remote -> git remote -v
+    - Copy its HTTPS link
+    - use command git remote add origin main <-LINK->  
+        - // this tells where we want to  push our local repo.
+    - To verify git remote -> git remote -v
 6. Use git push to push the local repo to the link.
 
 
-# Created by Vishal Singh
+### Created by Vishal Singh
